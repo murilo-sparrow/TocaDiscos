@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/LabTIME/Documents/Unreal Projects/TocaDiscos/Content/Maps/MainWorld.umap"
+				"C:/Users/LabTIME/Documents/Unreal Projects/TocaDiscos/Content/Maps/MainWorld.umap",
+				"C:/Users/LabTIME/Documents/Unreal Projects/TocaDiscos/Content/Art/NewMaterial.uasset",
+				"C:/Users/LabTIME/Documents/Unreal Projects/TocaDiscos/Content/Art/NewMaterial1.uasset"
 			]
 		}
 	]
