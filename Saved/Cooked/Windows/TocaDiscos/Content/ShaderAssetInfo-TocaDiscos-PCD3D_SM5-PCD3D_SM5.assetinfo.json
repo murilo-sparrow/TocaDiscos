@@ -131,6 +131,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7858F349FB418B724A80EEDF099378D616325B50",
+			"Assets": [
+				"/Game/Art/Materials/M_RecordPlayer_03"
+			]
+		},
+		{
 			"ShaderMapHash": "77B8784FB82C2490CF8CB53A54EBACDB14BD5ECA",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"

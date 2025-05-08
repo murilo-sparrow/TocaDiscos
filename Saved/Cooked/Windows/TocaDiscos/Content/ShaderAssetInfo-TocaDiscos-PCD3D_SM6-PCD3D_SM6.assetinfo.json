@@ -20,6 +20,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DAEEC302C351863DBD681883CE45769E0C03D9A8",
+			"Assets": [
+				"/Game/Art/Materials/M_RecordPlayer_03"
+			]
+		},
+		{
 			"ShaderMapHash": "78F47407D9D24E2E6607843C2B0242B68931B4B4",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
